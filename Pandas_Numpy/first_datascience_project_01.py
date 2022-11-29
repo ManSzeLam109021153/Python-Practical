@@ -17,6 +17,7 @@ park_1['上市日期']
 listing_date=park_1.上市日期
 park_1['實收資本額']
 Paid_in_capital = park_1.實收資本額
+
 #Print any types of data in csv file
 print('公司名稱',company_name)
 print('公司住址',address)
