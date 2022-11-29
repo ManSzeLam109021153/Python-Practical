@@ -24,7 +24,5 @@ print('上市日期',listing_date)
 print('實收資本額',Paid_in_capital)
 
 #to add those city up
-#if address == '台北' or address == '臺北':
-    #address.count(address)
 #add those data to SQL
 #Using those data and show it on Tkinter
